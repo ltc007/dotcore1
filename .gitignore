@@ -1,0 +1,8 @@
+# 忽略bin文件
+bin
+
+#忽略.vs
+.vs
+
+#忽略obj
+obj
